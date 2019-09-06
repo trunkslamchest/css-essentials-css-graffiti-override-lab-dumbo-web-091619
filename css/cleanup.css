@@ -1,17 +1,17 @@
 /* write your override styles here */
 
-#wall .tag1 {
+#wall .tag-1 {
   display: none;  
 }
 
-#wall #tag2 {
+#wall #tag-2 {
   display: none;  
 }
 
-#wall #tag3 #slick wicked {
+#wall #tag-3 #slick wicked {
   display: none;  
 }
 
-#wall .parent {
+#wall .parent #tag-4 {
   display: none;  
 }
